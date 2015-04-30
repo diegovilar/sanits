@@ -1,0 +1,9 @@
+{
+    "name": "sanits",
+    "projectName": "Sanits",
+    "version": "0.0.9-snapshot",
+    "description": "A sanity checking library for TypeScript",
+    "private": true,
+    "author": "Diego Vilar <diegovilar@gmail.com>",
+    "readmeFilename": "README.TXT"
+}

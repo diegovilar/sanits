@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Project Source Files" pattern="file:src//*&amp;&amp;!file:src//*.map&amp;&amp;!file:src//*.css&amp;&amp;!file:src//*.js" />
+</component>

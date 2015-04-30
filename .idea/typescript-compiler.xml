@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TypeScriptCompiler">
+    <option name="isCompilerEnabled" value="true" />
+    <option name="typeScriptServiceDirectory" value="D:\dev\Resources\node_modules\typescript\bin" />
+    <option name="typeScriptCompilerParams" value="--target ES3 --noImplicitAny --module commonjs" />
+    <option name="scopeName" value="Project TypeScript Files" />
+    <option name="versionType" value="SERVICE_DIRECTORY" />
+  </component>
+</project>

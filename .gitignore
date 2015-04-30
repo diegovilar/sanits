@@ -1,0 +1,11 @@
+build
+debug
+dist
+node_modules
+bower_components
+
+src/**/*.js
+src/**/*.map
+test/**/*.js
+test/**/*.map
+/.idea/workspace.xml
